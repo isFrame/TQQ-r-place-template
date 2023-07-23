@@ -1,0 +1,17 @@
+
+{
+"faction": "/r/5ToubunNoHanayome/",
+"contact": "https://discord.gg/vwM4E8cC",
+"templates": [
+{
+"name": "5 Toubun No Hanayome Art 2",
+"sources": [
+"https://cdn.discordapp.com/attachments/1131274401954930870/1132662826096398388/image.png"
+],
+"x": 78,
+"y": 1073
+}
+],
+"whitelist": [],
+"blacklist": []
+}
