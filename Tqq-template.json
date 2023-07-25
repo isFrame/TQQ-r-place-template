@@ -1,0 +1,26 @@
+{
+
+    "contact": "https://discord.gg/vwM4E8cC",
+    "templates": [
+      {
+        "name": "TQQ 1",
+        "sources": [
+  
+          "https://cdn.discordapp.com/attachments/1131261340342824971/1133298796017754142/TemplateTQQ.png"
+  
+        ], 
+        "x": 578,
+        "y": 1073 
+      }
+  
+    ],
+  
+    "whitelist": [
+        {
+            "name":"Honk kong",
+            "url":"https://swithord.github.io/rplace/overlay_template2.json"  
+        }
+    ],
+    "blacklist": []
+  
+  }
