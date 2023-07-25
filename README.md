@@ -1,2 +1,2 @@
-# TQQ-template-backup
-A backup of the TQQ template in case Rentry fails
+# TQQ-r/place-template
+The quintessential quintuplets template for r/place 2023
